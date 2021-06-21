@@ -1,6 +1,6 @@
 package com.example.demo.configuration;
 
-import com.example.webshopback.security.CustomAuthenticationFilter;
+import com.example.demo.security.CustomAuthenticationFilter;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;
