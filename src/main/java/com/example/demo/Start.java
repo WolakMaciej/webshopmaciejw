@@ -1,8 +1,8 @@
 package com.example.demo;
 
-import com.example.webshopback.model.User;
-import com.example.webshopback.model.UserAuthority;
-import com.example.webshopback.repository.UserRepository;
+import com.example.demo.model.User;
+import com.example.demo.model.UserAuthority;
+import com.example.demo.repository.UserRepository;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.crypto.password.PasswordEncoder;
 

@@ -1,8 +1,8 @@
 package com.example.demo;
 
 
-import com.example.webshopback.model.Product;
-import com.example.webshopback.repository.ProductRepository;
+import com.example.demo.model.Product;
+import com.example.demo.repository.ProductRepository;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
