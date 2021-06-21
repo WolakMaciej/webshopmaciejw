@@ -1,8 +1,8 @@
 package com.example.demo.controller;
 
-import com.example.webshopback.model.User;
-import com.example.webshopback.security.AuthResponse;
-import com.example.webshopback.service.UserService;
+import com.example.demo.model.User;
+import com.example.demo.security.AuthResponse;
+import com.example.demo.service.UserService;
 import io.swagger.v3.oas.annotations.Operation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

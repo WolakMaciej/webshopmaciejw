@@ -1,8 +1,8 @@
 package com.example.demo.service.impl;
 
-import com.example.webshopback.model.ItemCart;
-import com.example.webshopback.repository.ItemCartRepository;
-import com.example.webshopback.service.ItemCartService;
+import com.example.demo.model.ItemCart;
+import com.example.demo.repository.ItemCartRepository;
+import com.example.demo.service.ItemCartService;
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

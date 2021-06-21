@@ -1,7 +1,8 @@
 package com.example.demo.security;
 
 
-import com.example.webshopback.model.UserAuthority;
+
+import com.example.demo.model.UserAuthority;
 import lombok.Data;
 
 @Data

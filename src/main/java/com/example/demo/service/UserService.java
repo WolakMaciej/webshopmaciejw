@@ -1,7 +1,8 @@
 package com.example.demo.service;
 
-import com.example.webshopback.model.User;
-import com.example.webshopback.security.AuthResponse;
+import com.example.demo.model.User;
+import com.example.demo.security.AuthResponse;
+
 import org.springframework.security.core.userdetails.UserDetails;
 
 import java.util.List;

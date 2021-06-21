@@ -1,10 +1,10 @@
 package com.example.demo.controller;
 
-import com.example.webshopback.model.ShopOrder;
-import com.example.webshopback.model.User;
-import com.example.webshopback.service.ItemCartService;
-import com.example.webshopback.service.ShopOrderService;
-import com.example.webshopback.service.UserService;
+import com.example.demo.model.ShopOrder;
+import com.example.demo.model.User;
+import com.example.demo.service.ItemCartService;
+import com.example.demo.service.ShopOrderService;
+import com.example.demo.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,6 +1,6 @@
 package com.example.demo.service;
 
-import com.example.webshopback.model.ItemCart;
+import com.example.demo.model.ItemCart;
 
 import java.util.List;
 

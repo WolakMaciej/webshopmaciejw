@@ -1,7 +1,7 @@
 package com.example.demo.controller;
 
-import com.example.webshopback.model.ItemCart;
-import com.example.webshopback.service.ItemCartService;
+import com.example.demo.model.ItemCart;
+import com.example.demo.service.ItemCartService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

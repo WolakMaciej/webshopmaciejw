@@ -1,7 +1,7 @@
 package com.example.demo.security;
 
 
-import com.example.webshopback.service.UserService;
+import com.example.demo.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.authentication.dao.AbstractUserDetailsAuthenticationProvider;
